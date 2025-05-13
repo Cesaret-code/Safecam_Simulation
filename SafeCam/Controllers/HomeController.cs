@@ -20,10 +20,10 @@ namespace SafeCam.Controllers
         {
             List<Team> teamList = await _context.Teams.ToListAsync();
 
-            //HomeVm homeVm = new HomeVm()
-            //{
-            //    Team = teamList,
-            //};
+            HomeVm homeVm = new HomeVm()
+            {
+                Teams = teamList
+            };
             return View();
         }
 

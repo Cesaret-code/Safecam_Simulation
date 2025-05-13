@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\Boss\Data\**" />
+    <Compile Remove="Areas\Boss\Models\**" />
+    <Content Remove="Areas\Boss\Data\**" />
+    <Content Remove="Areas\Boss\Models\**" />
+    <EmbeddedResource Remove="Areas\Boss\Data\**" />
+    <EmbeddedResource Remove="Areas\Boss\Models\**" />
+    <None Remove="Areas\Boss\Data\**" />
+    <None Remove="Areas\Boss\Models\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.15" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.15" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.15" />
@@ -15,11 +26,6 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Areas\Boss\Data\" />
-    <Folder Include="Areas\Boss\Models\" />
   </ItemGroup>
 
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SafeCam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9db67801efae8601061c2165e4fe1b96d54f810")]
 [assembly: System.Reflection.AssemblyProductAttribute("SafeCam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SafeCam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

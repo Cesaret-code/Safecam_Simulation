@@ -1,58 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Safecam_Simulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\safecam_simulation\\safecam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\areas\\boss\\controllers\\teammenbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\areas\\boss\\controllers\\teammenbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\safecam_simulation\\safecam\\areas\\boss\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\areas\\boss\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\safecam_simulation\\safecam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\areas\\boss\\viewmodel\\teammenber\\teammenbervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\areas\\boss\\viewmodel\\teammenber\\teammenbervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\viewmodels\\home\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\areas\\boss\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\areas\\boss\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\areas\\boss\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\areas\\boss\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\ii novbe\\desktop\\safecam\\safecam\\areas\\boss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\areas\\boss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\safecam_simulation\\safecam\\areas\\boss\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44C4339-882A-4BFA-9417-F98D05B94345}|SafeCam\\SafeCam.csproj|solutionrelative:safecam\\areas\\boss\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,166 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TeamMenberVm.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\ViewModel\\TeamMenber\\TeamMenberVm.cs",
-              "RelativeDocumentMoniker": "SafeCam\\Areas\\Boss\\ViewModel\\TeamMenber\\TeamMenberVm.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\ViewModel\\TeamMenber\\TeamMenberVm.cs",
-              "RelativeToolTip": "SafeCam\\Areas\\Boss\\ViewModel\\TeamMenber\\TeamMenberVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:55:39.697Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Safecam_Simulation\\SafeCam\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SafeCam\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Safecam_Simulation\\SafeCam\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SafeCam\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:56:31.475Z",
+              "WhenOpened": "2025-05-13T23:21:19.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TeamMenberController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\Controllers\\TeamMenberController.cs",
-              "RelativeDocumentMoniker": "SafeCam\\Areas\\Boss\\Controllers\\TeamMenberController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\Controllers\\TeamMenberController.cs",
-              "RelativeToolTip": "SafeCam\\Areas\\Boss\\Controllers\\TeamMenberController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA5wCMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T08:38:09.364Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Safecam_Simulation\\SafeCam\\Areas\\Boss\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "SafeCam\\Areas\\Boss\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Safecam_Simulation\\SafeCam\\Areas\\Boss\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "SafeCam\\Areas\\Boss\\Views\\Team\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T23:03:28.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Safecam_Simulation\\SafeCam\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SafeCam\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Safecam_Simulation\\SafeCam\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SafeCam\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA0BAAAAAAAAAAAWwBwBAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAABEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T07:30:49.562Z",
+              "WhenOpened": "2025-05-13T22:48:01.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Models\\Team.cs",
-              "RelativeDocumentMoniker": "SafeCam\\Models\\Team.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Models\\Team.cs",
-              "RelativeToolTip": "SafeCam\\Models\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T06:58:35.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Views\\Team\\Index.cshtml",
-              "RelativeDocumentMoniker": "SafeCam\\Views\\Team\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Views\\Team\\Index.cshtml",
-              "RelativeToolTip": "SafeCam\\Views\\Team\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T06:10:45.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomeVm.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\ViewModels\\Home\\HomeVm.cs",
-              "RelativeDocumentMoniker": "SafeCam\\ViewModels\\Home\\HomeVm.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\ViewModels\\Home\\HomeVm.cs",
-              "RelativeToolTip": "SafeCam\\ViewModels\\Home\\HomeVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T07:07:45.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DashBoardController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\Controllers\\DashBoardController.cs",
-              "RelativeDocumentMoniker": "SafeCam\\Areas\\Boss\\Controllers\\DashBoardController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\Controllers\\DashBoardController.cs",
-              "RelativeToolTip": "SafeCam\\Areas\\Boss\\Controllers\\DashBoardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T06:00:18.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "TeamController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Controllers\\TeamController.cs",
-              "RelativeDocumentMoniker": "SafeCam\\Controllers\\TeamController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Controllers\\TeamController.cs",
-              "RelativeToolTip": "SafeCam\\Controllers\\TeamController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Safecam_Simulation\\SafeCam\\Areas\\Boss\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "SafeCam\\Areas\\Boss\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Masa\u00FCst\u00FC\\Safecam_Simulation\\SafeCam\\Areas\\Boss\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "SafeCam\\Areas\\Boss\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwF0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:59:30.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Program.cs",
-              "RelativeDocumentMoniker": "SafeCam\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Program.cs",
-              "RelativeToolTip": "SafeCam\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T05:51:37.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "SafeCam\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "SafeCam\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-13T05:51:30.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\Views\\DashBoard\\Index.cshtml",
-              "RelativeDocumentMoniker": "SafeCam\\Areas\\Boss\\Views\\DashBoard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\Views\\DashBoard\\Index.cshtml",
-              "RelativeToolTip": "SafeCam\\Areas\\Boss\\Views\\DashBoard\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEEBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T05:44:50.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SafeCam\\Areas\\Boss\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\SafeCam\\SafeCam\\Areas\\Boss\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SafeCam\\Areas\\Boss\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T05:43:39.174Z"
+              "WhenOpened": "2025-05-13T21:13:52.271Z",
+              "EditorCaption": ""
             }
           ]
         }
